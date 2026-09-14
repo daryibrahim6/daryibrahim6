@@ -64,16 +64,7 @@ Fullstack developer with a focus on shipping production systems — not just tut
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=daryibrahim6&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryibrahim6&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=daryibrahim6&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" height="165"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=daryibrahim6&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
 
 </div>
 
