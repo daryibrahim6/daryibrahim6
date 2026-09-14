@@ -32,13 +32,33 @@ Fullstack developer with a focus on shipping production systems — not just tut
 
 ---
 
-### Stack
+### Tech Stack
 
-| Area | Tools |
-|---|---|
-| Frontend | `React` `Vue.js` `Next.js` `Tailwind CSS` |
-| Backend | `Node.js` `Laravel` `PHP` `Python` |
-| Data | `PostgreSQL` `Supabase` `MySQL` |
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Machine Learning / Computer Vision**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
@@ -46,6 +66,14 @@ Fullstack developer with a focus on shipping production systems — not just tut
 
 <img src="https://github-readme-stats.vercel.app/api?username=daryibrahim6&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryibrahim6&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=daryibrahim6&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" height="165"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=daryibrahim6&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
 
 </div>
 
